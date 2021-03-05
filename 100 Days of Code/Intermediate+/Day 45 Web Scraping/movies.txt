@@ -1,0 +1,100 @@
+1) The Godfather
+2) The Wizard of Oz
+3) Citizen Kane
+4) The Shawshank Redemption
+5) Pulp Fiction
+6) Casablanca
+7) The Godfather: Part II
+8) E.T. The Extra-Terrestrial
+9) 2001: A Space Odyssey
+10) Schindler's List
+11) Star Wars
+12) Back to the Future
+13) Raiders of the Lost Ark
+14) Forrest Gump
+15) Gone With the Wind
+16) To Kill a Mockingbird
+17) Apocalypse Now
+18) Annie Hall
+19) Goodfellas
+20) It's a Wonderful Life
+21) Chinatown
+22) The Silence of the Lambs
+23) Lawrence of Arabia
+24) Jaws
+25) The Sound of Music
+26) Singin' in the Rain
+27) The Breakfast Club
+28) The Graduate
+29) Blade Runner
+30) One Flew Over the Cuckoo's Nest
+31) The Princess Bride
+32) The Empire Strikes Back
+33) Fargo
+34) American Beauty
+35) A Clockwork Orange
+36) Ferris Bueller's Day Off
+37) Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+38) When Harry Met Sally
+39) The Shining
+40) Fight Club
+41) Psycho
+42) Alien
+43) Toy Story
+44) The Matrix
+45) Titanic
+46) Saving Private Ryan
+47) Some Like It Hot
+48) The Usual Suspects
+49) Rear Window
+50) Jurassic Park
+51) The Big Lebowski
+52) All About Eve
+53) Good Will Hunting
+54) Butch Cassidy and the Sundance Kid
+55) Taxi Driver
+56) Eternal Sunshine of the Spotless Mind
+57) The Dark Knight
+58) Sunset Blvd.
+59) Thelma & Louise
+60) Amelie
+61) West Side Story
+62) North by Northwest
+63) Groundhog Day
+64) Mary Poppins
+65) Raging Bull
+66) The Lion King
+67) Avatar
+68) Monty Python and The Holy Grail
+69) Gladiator
+70) Vertigo
+71) Almost Famous
+72) Young Frankenstein
+73) All the President's Men
+74) Blazing Saddles
+75) The Bridge on the River Kwai
+76) Brokeback Mountain
+77) Ghostbusters
+78) 12 Angry Men
+79) Wall-E
+80) On the Waterfront
+81) Amadeus
+82) The Lord of the Rings: The Fellowship of the Ring
+83) Die Hard
+84) Inception
+85) Seven
+86) Beauty and the Beast
+87) The Lord of the Rings: The Return of the King
+88) Slumdog Millionaire
+89) Braveheart
+90) Memento
+91) Rocky
+92) Up
+93) Close Encounters of the Third Kind
+94) The Deer Hunter
+95) Doctor Zhivago
+96) Pan's Labyrinth
+97) Airplane!
+98) Reservoir Dogs
+99) Bonnie and Clyde
+100) The Seven Samurai
